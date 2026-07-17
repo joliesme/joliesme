@@ -14,6 +14,9 @@ Installable Claude skills generalized from the ones I use daily: a brand context
 [**honest-b2b-attribution**](../../honest-b2b-attribution)
 How I report campaign influence without overclaiming. Vocabulary, funnel definitions, fuzzy matching logic, and the framing that keeps sales and finance in the room.
 
+**[calendar-booking](../../calendar--booking)**
+A self-hosted booking system with Calendar sync, built because a booking page is a lead capture surface and most schedulers treat it as a calendar widget. Custom form questions qualify the person before the meeting exists, and the ad banner slots mean the page can carry sponsorship. Next.js, SQLite, an admin panel, and no per-seat pricing.
+
 ## A few things about how I work
 
 * I write the spec before the prompt. Most AI build failures I've had were spec failures wearing a technical costume.
@@ -24,5 +27,6 @@ How I report campaign influence without overclaiming. Vocabulary, funnel definit
 
 * ✍️ [Medium](https://medium.com/@joliestan) for the longer build stories
 * 💼 [LinkedIn](https://linkedin.com/in/joliestan)
-* 🗓️ [Zeri 择日](https://zer-dates.vercel.app), free and runs fully in your browser
+* 🗓️ [Zeri 择日](https://zeri-dates.vercel.app), free and runs fully in your browser
+* 🗓️ [Book My Calendar](https://book-my-calendar.vercel.app/), free and runs fully in your browser
 
